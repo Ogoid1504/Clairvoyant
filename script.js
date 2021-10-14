@@ -1,0 +1,6 @@
+alert("Pense em um número de 0 a 10")
+alert("Multiplique o por 2")
+alert("Some mais 20")
+alert("Divida por 2")
+alert("Subtraia desse resultado o número que você pensou")
+alert("O resultado é 10")
